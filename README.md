@@ -97,7 +97,6 @@ scikit-learn>=1.3
 requests>=2.31
 ```
 
-> **Note:** The `data/` folder is in `.gitignore` — do not commit the raw CSVs (largest files are ~60MB).
 
 ---
 
@@ -137,4 +136,4 @@ Source: [Kaggle — Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/d
 
 ---
 
-*Veridi Logistics Last Mile Delivery Audit · Olist Brazilian E-Commerce Dataset · Analysis by [Your Name]*
+*Veridi Logistics Last Mile Delivery Audit · Olist Brazilian E-Commerce Dataset · Analysis by Justine Umutoni*
