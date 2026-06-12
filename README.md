@@ -16,7 +16,6 @@ Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM
 | 🎞 Presentation (Slides) | *(paste your Google Slides / PDF link here)* |
 | 🎥 Video Walkthrough (optional) | *(paste YouTube link here)* |
 
-> ⚠️ All links must be opened in Incognito Mode to verify they are publicly accessible before submission.
 
 ---
 
