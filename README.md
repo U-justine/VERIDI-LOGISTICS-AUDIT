@@ -3,7 +3,7 @@ Data analysis project on last-mile logistics performance, focusing on delivery d
 
 ## A. Executive Summary
 
-Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM, AP) suffer 22–38% late delivery rates vs. ~5% in São Paulo. Each additional day late reduces average customer review score by approximately 0.4 points. The root cause is not operational failure but **systematic over-promising**: estimated delivery dates for remote regions are 5–7 days too optimistic relative to actual carrier performance. On-time orders average 4.18 Stars while super-late orders average 2.8 stars — a statistically significant difference (Kruskal-Wallis p < 0.001). Certain product categories (office furniture, large appliances) show structurally higher late rates regardless of destination. **Recommendation:** Adjust ETA algorithms to add a +3–5 day buffer for North/Northeast regions, and renegotiate carrier SLAs in the five worst-performing states.
+Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM, AP) suffer 22–38% late delivery rates vs. ~5% in São Paulo. Each additional day late reduces average customer review score by approximately 0.4 points. The root cause is not operational failure but **systematic over-promising**: estimated delivery dates for remote regions are 5–7 days too optimistic relative to actual carrier performance. On-time orders average 4.18 Stars while super-late orders average 2.8 stars; a statistically significant difference (Kruskal-Wallis p < 0.001). Certain product categories show structurally higher late rates regardless of destination. 
 
 ---
 
