@@ -11,10 +11,10 @@ Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM
 
 | Deliverable | Link |
 |---|---|
-| 📓 Notebook (Google Colab) | *(paste your Colab link here)* |
-| 📊 Dashboard | *(paste your Streamlit / Looker Studio / Tableau Public link here)* |
-| 🎞 Presentation (Slides) | *(paste your Google Slides / PDF link here)* |
-| 🎥 Video Walkthrough (optional) | *(paste YouTube link here)* |
+| Notebook (Google Colab) | *[(paste your Colab link here)](https://drive.google.com/file/d/159aMh8dwE_ypGyPu78_pB0iQUhJQz9GR/view?usp=sharing)* |
+| Dashboard | *[(paste your Streamlit / Looker Studio / Tableau Public link here)](https://veridi-logistics-dashboard-egrvhh6gvbvfdjvrkcqfwz.streamlit.app/)* |
+| Presentation (Slides) | *(paste your Google Slides / PDF link here)* |
+| Video Walkthrough (optional) | *(paste YouTube link here)* |
 
 
 ---
