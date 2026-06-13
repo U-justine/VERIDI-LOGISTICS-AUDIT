@@ -11,10 +11,10 @@ Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM
 
 | Deliverable | Link |
 |---|---|
-| Notebook (Google Colab) | *[(paste your Colab link here)](https://drive.google.com/file/d/159aMh8dwE_ypGyPu78_pB0iQUhJQz9GR/view?usp=sharing)* |
-| Dashboard | *[(paste your Streamlit / Looker Studio / Tableau Public link here)](https://veridi-logistics-dashboard-egrvhh6gvbvfdjvrkcqfwz.streamlit.app/)* |
-| Presentation (Slides) | *(paste your Google Slides / PDF link here)* |
-| Video Walkthrough (optional) | *(paste YouTube link here)* |
+| Notebook (Google Colab) | *https://colab.research.google.com/drive/159aMh8dwE_ypGyPu78_pB0iQUhJQz9GR#scrollTo=cell-install* |
+| Dashboard | *https://veridi-logistics-dashboard-egrvhh6gvbvfdjvrkcqfwz.streamlit.app/* |
+| Presentation  | *(paste your Google Slides / PDF link here)* |
+| Video Walkthrough | *(paste YouTube link here)* |
 
 
 ---
@@ -112,28 +112,4 @@ requests>=2.31
 | `product_category_name_translation.csv` | 71 | PT → EN category name mapping |
 
 Source: [Kaggle — Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
----
-
-## F. Submission Checklist
-
-- [ ] GitHub repo is **Public** (verify in Incognito Mode)
-- [x] `.ipynb` notebook uploaded to repo
-- [x] HTML export of notebook uploaded (`veridi_notebook_complete.html`)
-- [ ] Raw CSV data files **NOT** committed — add `data/` to `.gitignore` (file provided below)
-- [x] All file paths in notebook are **relative** (`DATA_DIR = "data"`)
-- [ ] Dashboard link is publicly accessible (deploy `veridi_dashboard.html` to Streamlit / Tableau Public)
-- [ ] Presentation link is publicly accessible (create 3–5 slide PDF from Key Findings section)
-- [x] README updated with Executive Summary, links placeholder, and technical notes
-- [x] User Stories 1–4 completed
-- [x] Bonus (Translation Challenge) completed
-- [x] Candidate's Choice (DPRS) completed and justified in README
-
-### ⚠️ Your 3 remaining actions before submission:
-1. **Upload to GitHub** — push `.ipynb` + `veridi_notebook_complete.html` + this `README.md`
-2. **Deploy dashboard** — open `veridi_dashboard.html` → upload to [Tableau Public](https://public.tableau.com) or host via [Streamlit Cloud](https://streamlit.io/cloud), paste the public URL above
-3. **Create presentation** — 5 slides: Overview → Data & Method → Geographic Findings → Sentiment Findings → Recommendations. Export as PDF, share via Google Drive ("Anyone with link"), paste URL above
-
----
-
-*Veridi Logistics Last Mile Delivery Audit · Olist Brazilian E-Commerce Dataset · Analysis by Justine Umutoni*
+ E-Commerce Dataset · Analysis by Justine Umutoni*
