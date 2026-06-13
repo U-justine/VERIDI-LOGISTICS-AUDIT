@@ -3,7 +3,7 @@ Data analysis project on last-mile logistics performance, focusing on delivery d
 
 ## A. Executive Summary
 
-Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM, AP) suffer 22–38% late delivery rates vs. ~5% in São Paulo. Each additional day late reduces average customer review score by approximately 0.4 points. The root cause is not operational failure but **systematic over-promising**: estimated delivery dates for remote regions are 5–7 days too optimistic relative to actual carrier performance. On-time orders average 4.31★ while super-late orders average 2.51★ — a statistically significant difference (Kruskal-Wallis p < 0.001). Certain product categories (office furniture, large appliances) show structurally higher late rates regardless of destination. **Recommendation:** Adjust ETA algorithms to add a +3–5 day buffer for North/Northeast regions, and renegotiate carrier SLAs in the five worst-performing states.
+Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM, AP) suffer 22–38% late delivery rates vs. ~5% in São Paulo. Each additional day late reduces average customer review score by approximately 0.4 points. The root cause is not operational failure but **systematic over-promising**: estimated delivery dates for remote regions are 5–7 days too optimistic relative to actual carrier performance. On-time orders average 4.18 Stars while super-late orders average 2.8 stars — a statistically significant difference (Kruskal-Wallis p < 0.001). Certain product categories (office furniture, large appliances) show structurally higher late rates regardless of destination. **Recommendation:** Adjust ETA algorithms to add a +3–5 day buffer for North/Northeast regions, and renegotiate carrier SLAs in the five worst-performing states.
 
 ---
 
@@ -13,7 +13,7 @@ Analysis of 96,000+ delivered orders reveals that remote Northern states (RR, AM
 |---|---|
 | Notebook (Google Colab) | *https://colab.research.google.com/drive/159aMh8dwE_ypGyPu78_pB0iQUhJQz9GR#scrollTo=cell-install* |
 | Dashboard | *https://veridi-logistics-dashboard-egrvhh6gvbvfdjvrkcqfwz.streamlit.app/* |
-| Presentation  | *(paste your Google Slides / PDF link here)* |
+| Presentation  | *https://docs.google.com/presentation/d/13Q2j6xQAJRPoOEPdvTWGlnyeuEhmRpuvirXoiRxmLb4/edit?slide=id.g3ebdc9c6ce8_0_508#slide=id.g3ebdc9c6ce8_0_508* |
 | Video Walkthrough | *(paste YouTube link here)* |
 
 
